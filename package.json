@@ -15,7 +15,7 @@
       {
         "label": "kartjim light",
         "uiTheme": "vs",
-        "path": "./themes/kartjim.json"
+        "path": "./themes/kartjim-color-theme.json"
       },
       {
         "label": "kartjim dark",
