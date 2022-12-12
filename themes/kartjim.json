@@ -3,7 +3,6 @@
 	"colors": {
 		"editor.background": "#fff",
 		"editor.foreground": "#4a4266",
-        "list.activeSelectionIconForeground": "#fff",
 
 		"foreground": "#4a4266",
 		"focusBorder": "#ffa631",
@@ -98,6 +97,66 @@
 		"tab.inactiveBackground": "#fafbfc",
 		"tab.hoverBackground": "#fff",
 		
+		// Editor colors
+		"editorLineNumber.foreground": "#4a4266",
+		"editorLineNumber.activeForeground": "#ffa631",
+		"editorCursor.foreground": "#ffa631",
+		"editor.selectionBackground": "#ffa63140",
+		"editor.selectionHighlightBackground": "#ffa63120",
+		"editor.wordHighlightBackground": "#ffa63120",
+		"editor.wordHighlightStrongBackground": "#ffa63150",
+		"editor.findMatchBackground": "#ffa631",
+		"editor.findMatchHighlightBackground": "#ffa63160",
+		"editor.hoverHighlightBackground": "#ffa63140",
+		"editor.lineHighlightBackground": "#ffa63110",
+		"editorWhitespace.foreground": "#e6e8ea",
+	"editorIndentGuide.activeBackground": "#ffa631",
+	"editorIndentGuide.background": "#e6e8ea",
+	"editorInlayHint.background": "#ff0000",
+	"editorCodeLens.foreground": "#ffa631",
+	"editorBracketMatch.background": "#f6f8fa",
+	"editorBracketMatch.border": "#ffa631",
+	"editor.foldBackground": "#f6f8fa",
+	"editorOverviewRuler.addedForeground": "#48985d",
+	"editorOverviewRuler.background": "#fafbfc",
+"editorOverviewRuler.bracketMatchForeground": "#ffa631",
+"editorOverviewRuler.modifiedForeground": "#2727f7",
+"editorCommentsWidget.rangeActiveBackground": "#ff0000",
+
+	// Diff editor colors
+	"diffEditor.insertedLineBackground": "#2254db10",
+	"diffEditor.removedLineBackground": "#ff000010",
+
+	// Editor widget colors
+	"editorWidget.background": "#fafbfc",
+	"editorWidget.border": "#efefef",
+
+	// Peek view colors
+	"peekView.border": "#ffa631",
+
+	// Panel colors
+	"panel.background": "#fff",
+	"panel.border": "#eff1f3",
+
+	//Status Bar colors
+	"statusBar.background": "#f6f8fa",
+	"statusBar.border": "#efefef",
+	"statusBar.foreground": "#444",
+	"statusBar.debuggingBackground": "#ffa631",
+	"statusBar.debuggingBorder": "#aaa",
+	"statusBar.debuggingForeground": "#fff",
+	"statusBarItem.activeBackground": "#e5e5e5",
+	"statusBarItem.hoverBackground": "#efefef",
+	"statusBarItem.prominentBackground": "#ffd399",
+	
+	// Title Bar colors
+	"titleBar.activeBackground": "#f6f8fa",
+	"titleBar.activeForeground": "#343434",
+
+	// Menu Bar colors
+	"menu.background": "#fff",
+	"menu.border": "#ffa631",
+	"menu.separatorBackground": "#ffa631",
 	},
 	"tokenColors": [
 		{
