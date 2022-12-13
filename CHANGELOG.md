@@ -1,9 +1,5 @@
 # Change Log
 
-All notable changes to the "kartjim-theme" extension will be documented in this file.
+## [0.3.0] - 2022-12-13
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- 第一版发布！

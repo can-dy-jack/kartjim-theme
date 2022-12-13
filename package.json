@@ -4,6 +4,10 @@
   "description": "a simple vscode theme",
   "version": "0.3.0",
   "publisher": "kartjim",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/can-dy-jack/kartjim-theme.git"
+	},
   "engines": {
     "vscode": "^1.74.0"
   },
